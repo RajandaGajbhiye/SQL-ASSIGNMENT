@@ -7,6 +7,9 @@ CRUD stands for Create, Read, Update & Delete. These are the four basic operatio
 The CRUD operations are defined as follows:
 
 Read Operation   : The ability of the application to read data from the database.
+
 Create Operation : The ability of the application to store data in the database.
+
 Update Operation : The ability of the application to edit the stored value in the database.
+
 Delete Operation : The ability of the application to delete the stored value in the database.
